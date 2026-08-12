@@ -1,6 +1,6 @@
 {
   "latest_version": "1.2.0",
   "status": "deprecated",
-  "message": "This Sea Bass version will soon be outdated. Update today at example.com",
+  "message": "This Sea Bass version is now deprecated. Update today at example.com",
   "download_url": "https://example.com"
 }
