@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.2.0",
-  "status": "warning",
+  "latest_version": "1.1.0",
+  "status": "ok",
   "message": "This Sea Bass version is now outdated. Update today at example.com",
   "download_url": "https://example.com"
 }
